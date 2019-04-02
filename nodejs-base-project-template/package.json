@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "author": "Alican Bayır",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "body-parser": "^1.18.3",
+    "winston": "^3.2.1",
+    "moment": "^2.24.0",
+    "request-promise": "^4.2.4"
+  }
+}
